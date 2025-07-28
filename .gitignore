@@ -1,0 +1,15 @@
+# Ignore node_modules
+client/node_modules/
+server/node_modules/
+
+# Env files
+client/.env
+server/.env
+*.env
+
+# Logs
+*.log
+
+# System junk
+.DS_Store
+Thumbs.db
